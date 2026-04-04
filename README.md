@@ -1,4 +1,4 @@
-❤️ Heart Risk Prediction System
+#  ❤️ Heart Risk Prediction System
 
 This project is built around predicting heart disease risk using a structured machine learning approach. Instead of jumping straight into modeling, the work follows a clear lifecycle, from understanding the data to evaluating the final model.
 
