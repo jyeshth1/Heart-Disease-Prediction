@@ -25,10 +25,7 @@ with st.sidebar:
     - Fill all the fields accurately.
     - Press **Predict** to see your risk.
     """)
-st.image(
-    "https://images.unsplash.com/photo-1715111965882-bbdf35de510c?w=600&auto=format&fit=crop&q=60",
-    use_container_width=True
-)
+st.image("https://images.unsplash.com/photo-1715111965882-bbdf35de510c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGh1bWFuJTIwaGVhcnR8ZW58MHx8MHx8fDA%3D", use_column_width=True)
 st.markdown("<h1 style='text-align: center; color: red;'>💓 Heart Disease Tracker</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
